@@ -7,7 +7,7 @@ Now no need to worry about performing options on pdf. Through this python perogr
 3) Encypt a pdf using using your own password
 4) Can Rotate Multiple Pages of a pdf File
 
-
+One Important Thing You have to enter the Name of File including extension like (Test.pdf)
  #How It Works:
  First Select which operation you want to perform
  
