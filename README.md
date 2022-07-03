@@ -6,6 +6,7 @@ Now no need to worry about performing options on pdf. Through this python perogr
 2) Split a pdf into two pdf files
 3) Encypt a pdf using using your own password
 4) Can Rotate Multiple Pages of a pdf File
+5) Can Get Info Related to Pdf File
 
 One Important Thing You have to enter the Name of File including extension like (Test.pdf)
  #How It Works:
@@ -25,15 +26,17 @@ One Important Thing You have to enter the Name of File including extension like 
       3) Now it will ask you name of Files you want to merge in sequence
       4) and it's all done check your folder you will have a new merged pdf
       
-4) Splitting:
+3) Splitting:
       1) First enter the name of file you want to split
       2) Enter the name of output/splitted File
       3) Now Enter the Page Number at which you want to split pdf
       4) and it's done for you
       
-6) Encryption: 
+4) Encryption: 
       1) Enter the Name of File you want to Encrypt 
       2) Enter the Password for File
       3) And now you File is encrypted no one can open it without your password
+5) Info:
+     1) Enter the Name of File and it will give you info Related to it
 
 Have Funn in Case of any query Feel Free to commit 
